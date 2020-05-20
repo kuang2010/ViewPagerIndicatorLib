@@ -1,0 +1,3 @@
+rootProject.name='ViewPagerIndicatorLib'
+include ':app'
+include ':indicatorlibrary'
