@@ -26,3 +26,15 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.kuang2010:ViewPagerIndicatorLib:1.0.0'
 	}
+
+
+
+
+
+
+
+
+Developed By
+ 
+      Jake Wharton - jakewharton@gmail.com
+      [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
