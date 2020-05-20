@@ -2,6 +2,11 @@
 Indicator和垂直方向的viewpager
 
 
+![Image text](1.png)
+
+![Image text](2.png)
+
+
 How to
 To get a Git project into your build:
 
