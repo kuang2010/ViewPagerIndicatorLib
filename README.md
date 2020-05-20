@@ -36,5 +36,4 @@ Step 2. Add the dependency
 
 Developed By
  
-      Jake Wharton - jakewharton@gmail.com
-      [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+    [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
