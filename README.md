@@ -34,6 +34,7 @@ Step 2. Add the dependency
 
 
 
-Developed By
- 
-    [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+Contribute By
+
+   [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+   [Android-DirectionalViewPager](https://github.com/JakeWharton/Android-DirectionalViewPager)
